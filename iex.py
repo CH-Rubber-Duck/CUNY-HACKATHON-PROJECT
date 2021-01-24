@@ -9,7 +9,7 @@ from iexfinance.stocks import Stock
 TICKER_SYMBOL_API_ENDPOINT = "https://ticker-2e1ica8b9.now.sh/keyword/"
 
 def get_tickers(kwd:str) -> str:
-    with open('./tickers.json', 'r') as f:
+    with open('./data/tickers.json', 'r') as f:
         try:
             return json.load(f)
         except:
@@ -40,7 +40,7 @@ if __name__ == "__main__":
 
         # Load all tickers from the dataset
         tickers = get_tickers()
-        
+
 
         # Set the API version
         set_sandbox(config["debug"])
