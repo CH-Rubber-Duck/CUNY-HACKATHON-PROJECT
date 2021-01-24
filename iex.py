@@ -1,24 +1,46 @@
 import pandas as pd
 import yaml
 import os
-import requests
 import json
 
+from pandas import DataFrame
 from iexfinance.stocks import Stock
 
-TICKER_SYMBOL_API_ENDPOINT = "https://ticker-2e1ica8b9.now.sh/keyword/"
+TICKERS = None
+CONFIG = None
 
-def get_tickers(kwd:str) -> str:
-    with open('./data/tickers.json', 'r') as f:
-        try:
-            return json.load(f)
-        except:
-            print("Error reading tickers!!!")
+def load_tickers():
+    global TICKERS
+    TICKERS = pd.read_csv("./data/tickers.csv")
 
-def load_config() -> any:
+def is_valid_company(company:str) -> bool:
+    return any(TICKERS[TICKERS["company"].str.contains(company, case=False)])
+
+def is_valid_ticker(ticker:str) -> bool:
+    return any(TICKERS[TICKERS["symbol"].str.contains(ticker, case=False)])
+
+def find_ticker(kwd:str, limit:int=10) -> [str]:
+    tickers = TICKERS[TICKERS["company"].str.contains(kwd, case=False)].head(limit)
+    # print(tickers["company"])
+    if len(tickers) == 0:
+        print("Invalid company name")
+        return []
+    return tickers[["company", "symbol"]]
+
+
+def start():
+    global CONFIG
     with open('./config.yaml', 'r') as f:
         try:
-            return yaml.full_load(f)
+            # Read the configuration yaml files
+            CONFIG = yaml.full_load(f)
+
+            # Set the API version
+            set_sandbox(CONFIG["debug"])
+
+            # Load the company-ticker dataset
+            load_tickers()
+
         except:
             print("Error reading configuration!!!")
     
@@ -29,23 +51,24 @@ def set_sandbox(debug:bool=False):
 def get_stock(stock_name:str, token:str):
     stock = Stock(stock_name.upper(), token=token, )
     print(stock.get_price())
-    
-    
 
 if __name__ == "__main__":
     while True:
         
-        # Load the configuration from the YAML file
-        config = load_config()
+        # Load the configuration and ticker information
+        start()
 
-        # Load all tickers from the dataset
-        tickers = get_tickers()
+        token = CONFIG["iex"]["sandbox"]["public"]
 
+        # stock_name = input("Enter a stock name: ")
+        # get_stock(stock_name, token)
 
-        # Set the API version
-        set_sandbox(config["debug"])
+        company_name = input("Enter a company name: ")
+        tickers = find_ticker(company_name)
 
-        token = config["iex"]["sandbox"]["public"]
-        stock_name = input("Enter a stock name: ")
-        get_stock(stock_name, token)
+        if len(tickers) > 0:
+            for company, symbol in tickers.values:
+                print(f"\033[1;32;40m\t{company:<60} {symbol}")
+            print("\033[0m ", end="")
+            print()
         # get_ticker(stock_name)
