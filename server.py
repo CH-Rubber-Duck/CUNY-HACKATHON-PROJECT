@@ -1,9 +1,13 @@
 import iex
 import json
+import asyncio
 from fastapi import FastAPI, HTTPException
 
-iex.start()
 app = FastAPI()
+loop = asyncio.get_event_loop()
+loop.create_task(iex.start())
+
+# iex.start()
 
 @app.get("/")
 async def root():
