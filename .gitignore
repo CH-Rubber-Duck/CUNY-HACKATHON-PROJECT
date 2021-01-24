@@ -1,3 +1,4 @@
 config.yaml
 extract_tickers.ipynb
 tickers.json
+*.pyc
