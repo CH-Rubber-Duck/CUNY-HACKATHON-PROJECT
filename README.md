@@ -22,8 +22,18 @@ We learned how to build the restAPI in order to serve data to the website, while
 To optimize the code and algorithms, expand on the current APIs' capabilities, while also expanding on other financial assessment features to further increase the precision of analyzing the user's financial standing.
 
 ## Usage
-To test the api, make a curl request at 
-[https://dosido-api.ue.r.appspot.com/](https://dosido-api.ue.r.appspot.com/)
+To test the api, make a curl request to
+[https://dosido-api.ue.r.appspot.com/](https://dosido-api.ue.r.appspot.com/) at one of the following endpoints
+
+
+ endpoint | parameters |  valid argument   | returns 
+--- | --- | --- | --- 
+ /stocks/ |   drange   | 1d, 1m, 1y, today |  stock  
+ /company/|    none    |   company name    | tickers 
+
+```bash
+~$ curl https://dosido-api.ue.r.appspot.com/
+```
 
 ### Response example: 
 
