@@ -1,4 +1,4 @@
-,symbol
+company,symbol
 Agilent Technologies Inc.,A
 Alcoa Corporation,AA
 Perth Mint Physical Gold,AAAU
@@ -25,7 +25,7 @@ AmerisourceBergen Corporation,ABC
 Ameris Bancorp,ABCB
 Alcentra Capital Corp.,ABDC
 Abeona Therapeutics Inc.,ABEO
-,ABEOW
+Unknown company,ABEOW
 Ambev S.A. American Depositary Shares (Each representing 1),ABEV
 Asbury Automotive Group Inc,ABG
 Ability Inc.,ABIL
@@ -135,8 +135,8 @@ Aeterna Zentaris Inc.,AEZS
 AllianceBernstein National Municipal Income Fund Inc,AFB
 Allied Capital Corporation 6.875% Notes due April 15 2047,AFC
 American Financial Group Inc.,AFG
-,AFGE
-,AFGH
+Unknown company,AFGE
+Unknown company,AFGH
 Atlas Financial Holdings Inc.,AFH
 Atlas Financial Holdings Inc. 6.625% Senior Unsecured Notes Due 2022,AFHBL
 Armstrong Flooring Inc.,AFI
@@ -151,8 +151,8 @@ AmTrust Financial Services Inc. Depository Shares Series C,AFSI-C
 AmTrust Financial Services Inc. Depositary Shares Series D,AFSI-D
 AmTrust Financial Services Inc. Depositary Shares Series E,AFSI-E
 AmTrust Financial Services Inc. Depositary Shares Series F,AFSI-F
-,AFSS
-,AFST
+Unknown company,AFSS
+Unknown company,AFST
 Apollo Senior Floating Rate Fund Inc.,AFT
 CSOP FTSE China A50,AFTY
 First Majestic Silver Corp. (Canada),AG
@@ -211,7 +211,7 @@ Ashford Hospitality Trust Inc 7.50% Series I Cumulative Preferred Stock,AHT-I
 Arlington Asset Investment Corp Class A (new),AI
 Arlington Asset Investment Corp 7.00% Series B Cumulative Perpetual Redeemable Preferred Stock,AI-B
 iShares Asia 50 ETF,AIA
-,AIC
+Unknown company,AIC
 AI Powered Equity,AIEQ
 Apollo Tactical Income Fund Inc.,AIF
 American International Group Inc.,AIG
@@ -417,7 +417,7 @@ Artisan Partners Asset Management Inc. Class A,APAM
 Anadarko Petroleum Corporation,APC
 Air Products and Chemicals Inc.,APD
 Applied DNA Sciences Inc,APDN
-,APDNW
+Unknown company,APDNW
 American Public Education Inc.,APEI
 Apollo Endosurgery Inc.,APEN
 Morgan Stanley Asia-Pacific Fund Inc.,APF
@@ -451,7 +451,7 @@ Aquantia Corp.,AQ
 AquaBounty Technologies Inc.,AQB
 Aqua Metals Inc.,AQMS
 Algonquin Power & Utilities Corp.,AQN
-,AQNA
+Unknown company,AQNA
 Aquestive Therapeutics Inc.,AQST
 Evoqua Water Technologies Corp.,AQUA
 Aquinox Pharmaceuticals Inc.,AQXP
@@ -495,7 +495,7 @@ Alliance Resource Partners L.P.,ARLP
 Aramark,ARMK
 Arena Pharmaceuticals Inc.,ARNA
 Arconic Inc.,ARNC
-,ARNC-
+Unknown company,ARNC-
 Archrock Inc.,AROC
 Arrow Financial Corporation,AROW
 Aerpio Pharmaceuticals Inc.,ARPO
@@ -642,7 +642,7 @@ WisdomTree Asia Pacific ex-Japan Total Dividend Fund,AXJL
 iShares Edge MSCI A Min Vol Asia ex Japan,AXJV
 American Axle & Manufacturing Holdings Inc.,AXL
 Axonics Modulation Technologies Inc.,AXNX
-,AXO
+Unknown company,AXO
 Axovant Sciences Ltd.,AXON
 American Express Company,AXP
 AMREP Corporation,AXR
@@ -733,8 +733,8 @@ Build-A-Bear Workshop Inc.,BBW
 BBX Capital Corporation Class A,BBX
 Best Buy Co. Inc.,BBY
 Brunswick Corporation,BC
-,BC-A
-,BC-B
+Unknown company,BC-A
+Unknown company,BC-B
 Bison Capital Acquisition Corp.,BCAC
 Bison Capital Acquisition Corp. Rights,BCACR
 Bison Capital Acquisition Corp. Units Consisting of 1 OS 1/2 WT and 1 RT,BCACU
@@ -948,7 +948,7 @@ United States Brent Oil Fund LP ETV,BNO
 Bank Nova Scotia Halifax Pfd 3,BNS
 Bonso Electronics International Inc.,BNSO
 Benitec Biopharma Limited,BNTC
-,BNTCW
+Unknown company,BNTCW
 BlackRock New York Municipal Income Trust,BNY
 Bank of Commerce Holdings (CA),BOCH
 Innovator S&P 500 Buffer ETF - October,BOCT
@@ -1093,7 +1093,7 @@ Buenaventura Mining Company Inc.,BVN
 Brandes Value NextShares ETF,BVNSC
 BroadVision Inc.,BVSN
 BiondVax Pharmaceuticals Ltd.,BVXV
-,BVXVW
+Unknown company,BVXVW
 Babcock & Wilcox Enterprises Inc.,BW
 BorgWarner Inc.,BWA
 Bridgewater Bancshares Inc.,BWB
@@ -1209,7 +1209,7 @@ CBM Bancorp Inc.,CBMB
 Cellular Biomedicine Group Inc.,CBMG
 SPDR Bloomberg Barclays Corporate Bond,CBND
 Capital Bancorp Inc.,CBNK
-,CBO
+Unknown company,CBO
 Cboe Global Markets Inc.,CBOE
 VanEck Vectors ChinaAMC China Bond,CBON
 China Biologic Products Holdings Inc.,CBPO
@@ -1223,7 +1223,7 @@ Commerce Bancshares Inc. Depositary Shares each representing a 1/1000th interest
 Cabot Corporation,CBT
 CBTX Inc.,CBTX
 Community Bank System Inc.,CBU
-,CBX
+Unknown company,CBX
 CBIZ Inc.,CBZ
 Chemours Company (The),CC
 MFS California Municipal Fund of Beneficial Interest,CCA
@@ -1357,7 +1357,7 @@ Churchill Downs Incorporated,CHDN
 Chemed Corp,CHE
 The Chefs' Warehouse Inc.,CHEF
 Check-Cap Ltd.,CHEK
-,CHEKW
+Unknown company,CHEKW
 Check-Cap Ltd. Series C Warrant,CHEKZ
 AGFiQ U.S. Market Neutral Value Fund,CHEP
 Chemical Financial Corporation,CHFC
@@ -1412,7 +1412,7 @@ Citizens Inc. Class A ($1.00 Par),CIA
 BanColombia S.A.,CIB
 First Trust NASDAQ CEA Cybersecurity ETF,CIBR
 Capitol Investment Corp. IV Class A,CIC
-,CIC+
+Unknown company,CIC+
 Capitol Investment Corp. IV Units each consisting of One Class A Ordinary Share and One-Third of One redeemable Warrant,CIC=
 Compass EMP International High Dividend 100 Volati,CID
 Cinedigm Corp,CIDM
@@ -1515,7 +1515,7 @@ iShares Bloomberg Roll Select Commodity Strategy,CMDY
 CME Group Inc.,CME
 iShares California Muni Bond,CMF
 CM Finance Inc,CMFN
-,CMFNL
+Unknown company,CMFNL
 Chipotle Mexican Grill Inc.,CMG
 Cummins Inc.,CMI
 Cumulus Media Inc.,CMLS
@@ -1532,7 +1532,7 @@ Chimerix Inc.,CMRX
 CMS Energy Corporation,CMS
 CMS Energy Corporation Preferred Stock,CMS-B
 CMS Energy Corporation 5.625% Junior Subordinated Notes due 2078,CMSA
-,CMSC
+Unknown company,CMSC
 CM Seven Star Acquisition Corporation,CMSS
 CM Seven Star Acquisition Corporation Right,CMSSR
 CM Seven Star Acquisition Corporation Unit,CMSSU
@@ -1556,7 +1556,7 @@ Conduent Incorporated,CNDT
 ChinaNet Online Holdings Inc.,CNET
 CNFinance Holdings Limited American Depositary Shares each representing twenty (20),CNF
 Conifer Holdings Inc.,CNFR
-,CNFRL
+Unknown company,CNFRL
 CNH Industrial N.V.,CNHI
 CSOP MSCI China A International Hedged,CNHX
 Canadian National Railway Company,CNI
@@ -1628,7 +1628,7 @@ Coty Inc. Class A,COTY
 Coupa Software Incorporated,COUP
 iPathA Series B Bloomberg Livestock Subindex Total Return ETN,COW
 Cowen Inc.,COWN
-,COWNL
+Unknown company,COWNL
 Cowen Inc. 7.35% Senior Notes Due 2027,COWNZ
 Pacer US Cash Cows 100,COWZ
 Canadian Pacific Railway Limited,CP
@@ -1737,7 +1737,7 @@ Capital Southwest Corporation,CSWC
 Capital Southwest Corporation 5.95% Notes due 2022,CSWCL
 CSW Industrials Inc.,CSWI
 CSX Corporation,CSX
-,CTAA
+Unknown company,CTAA
 ChaSerg Technology Acquisition Corp.,CTAC
 ChaSerg Technology Acquisition Corp. Unit,CTACU
 ChaSerg Technology Acquisition Corp. Warrant,CTACW
@@ -1768,13 +1768,13 @@ CTS Corporation,CTS
 Cognizant Technology Solutions Corporation,CTSH
 CytoSorbents Corporation,CTSO
 CatchMark Timber Trust Inc. Class A,CTT
-,CTV
+Unknown company,CTV
 Connecticut Water Service Inc.,CTWS
 Citius Pharmaceuticals Inc.,CTXR
 Citius Pharmaceuticals Inc. Warrant,CTXRW
 Citrix Systems Inc.,CTXS
 Qwest Corporation 6.125% Notes due 2053,CTY
-,CTZ
+Unknown company,CTZ
 Cubic Corporation,CUB
 The Herzfeld Caribbean Basin Fund Inc.,CUBA
 CubeSmart,CUBE
@@ -1854,7 +1854,7 @@ Community Health Systems Inc.,CYH
 Changyou.com Limited,CYOU
 CYREN Ltd.,CYRN
 CryoPort Inc.,CYRX
-,CYRXW
+Unknown company,CYRXW
 Cytokinetics Incorporated,CYTK
 CytRx Corporation,CYTR
 Cytori Therapeutics Inc.,CYTX
@@ -2113,7 +2113,7 @@ Duke Realty Corporation,DRE
 Diamondrock Hospitality Company,DRH
 Darden Restaurants Inc.,DRI
 DarioHealth Corp.,DRIO
-,DRIOW
+Unknown company,DRIOW
 Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 3X Shares,DRIP
 Global X Autonomous & Electric Vehicles ETF,DRIV
 Direxion Daily Real Estate Bull 3x Shares,DRN
@@ -2134,7 +2134,7 @@ Duff & Phelps Select MLP and Midstream Energy Fund Inc.,DSE
 The Descartes Systems Group Inc.,DSGX
 iShares MSCI KLD 400 Social,DSI
 Daseke Inc.,DSKE
-,DSKEW
+Unknown company,DSKEW
 DoubleLine Income Solutions Fund of Beneficial Interests,DSL
 VelocityShares 3x Inverse Silver ETN,DSLV
 Dreyfus Strategic Municipal Bond Fund Inc.,DSM
@@ -2154,7 +2154,7 @@ ALPS ETF Trust Disruptive Technologies,DTEC
 DTF Tax-Free Income Inc.,DTF
 WisdomTree International High Dividend Fund,DTH
 DTE Energy Company 2016 Series B 5.375% Junior Subordinated Debentures due 2076,DTJ
-,DTLA-
+Unknown company,DTLA-
 WisdomTree U.S. Dividend ex-Financials Fund,DTN
 DB Crude Oil Double Short ETN due June 1 2038,DTO
 DTE Energy Company 2012 Series C 5.25% Junior Subordinate Debentures due December 1 2062,DTQ
@@ -2691,7 +2691,7 @@ Exterran Corporation,EXTN
 Extreme Networks Inc.,EXTR
 National Vision Holdings Inc.,EYE
 Eyegate Pharmaceuticals Inc.,EYEG
-,EYEGW
+Unknown company,EYEGW
 Eyenovia Inc.,EYEN
 Second Sight Medical Products Inc.,EYES
 Second Sight Medical Products Inc. Warrants,EYESW
@@ -2831,7 +2831,7 @@ FormulaFolios Tactical Income,FFTI
 Innovator IBD 50,FFTY
 First Foundation Inc.,FFWM
 FGL Holdings,FG
-,FG+
+Unknown company,FG+
 First Trust Specialty Finance and Financial Opportunities Fund,FGB
 First Guaranty Bancshares Inc.,FGBI
 First Trust DJ Global Select Dividend,FGD
@@ -2921,7 +2921,7 @@ First Trust Global Engineering and Construction,FLM
 Franklin Templeton ETF Trust Liberty Municipal Bond,FLMB
 Franklin Templeton ETF Trust Liberty Intermediate Municipal Opportunities,FLMI
 Falcon Minerals Corporation,FLMN
-,FLMNW
+Unknown company,FLMNW
 Franklin FTSE Mexico,FLMX
 First Trust Latin America AlphaDEX Fund,FLN
 Fluent Inc.,FLNT
@@ -3207,7 +3207,7 @@ Goldman Sachs Access Treasury 0-1 Year,GBIL
 Gamco Investors Inc.,GBL
 Global Indemnity Limited,GBLI
 Global Indemnity Limited 7.875% Subordinated Notes due 2047,GBLIL
-,GBLIZ
+Unknown company,GBLIZ
 New Concept Energy Inc,GBR
 Global Blood Therapeutics Inc.,GBT
 Greenbrier Companies Inc. (The),GBX
@@ -3299,7 +3299,7 @@ iShares US & Intl High Yield Corp Bond,GHYG
 CGI Group Inc.,GIB
 Gulf Island Fabrication Inc.,GIFI
 GigCapital Inc.,GIG
-,GIG+
+Unknown company,GIG+
 GigCapital Inc. Unit,GIG=
 Goldman Sachs Access Investment Grade Corporate Bond,GIGB
 GigaMedia Limited,GIGM
@@ -3324,7 +3324,7 @@ Greenland Acquisition Corporation Right,GLACR
 Greenland Acquisition Corporation Unit,GLACU
 Greenland Acquisition Corporation Warrant,GLACW
 Gladstone Capital Corporation,GLAD
-,GLADD
+Unknown company,GLADD
 Gladstone Capital Corporation 6.00% Series 2024 Term Preferred Stock,GLADN
 Globus Maritime Limited,GLBS
 WisdomTree Yield Enhanced Global Aggregate Bond Fund,GLBY
@@ -3607,7 +3607,7 @@ Hi-Crush Partners LP representing limited partner interests,HCLP
 Hutchison China MediTech Limited,HCM
 HCP Inc.,HCP
 Healthcare Services Group Inc.,HCSG
-,HCXY
+Unknown company,HCXY
 Hercules Capital Inc. 5.25% Notes due 2025,HCXZ
 Home Depot Inc. (The),HD
 Xtrackers MSCI All World ex US High Dividend Yield Equity,HDAW
@@ -3698,7 +3698,7 @@ Herbalife Nutrition Ltd.,HLF
 Hailiang Education Group Inc.,HLG
 Houlihan Lokey Inc. Class A,HLI
 Harmonic Inc.,HLIT
-,HLM-
+Unknown company,HLM-
 Hamilton Lane Incorporated,HLNE
 Hilton Worldwide Holdings Inc.,HLT
 Nobilis Health Corp.,HLTH
@@ -3791,7 +3791,7 @@ John Hancock Tax Advantaged Dividend Income Fund of Beneficial Interest,HTD
 Horizon Technology Finance Corporation 6.25% Notes due 2022,HTFA
 Hercules Capital Inc.,HTGC
 HTG Molecular Diagnostics Inc.,HTGM
-,HTGX*
+Unknown company,HTGX*
 Hilltop Holdings Inc.,HTH
 Huazhu Group Limited,HTHT
 Heartland Express Inc.,HTLD
@@ -3821,7 +3821,7 @@ Haverty Furniture Companies Inc.,HVT.A
 Hawthorn Bancshares Inc.,HWBK
 Hancock Whitney Corporation,HWC
 Houston Wire & Cable Company,HWCC
-,HWCPL
+Unknown company,HWCPL
 Hawkins Inc.,HWKN
 Hexindai Inc.,HX
 Hexcel Corporation,HXL
@@ -4108,7 +4108,7 @@ Insmed Inc.,INSM
 Inspire Medical Systems Inc.,INSP
 Instructure Inc.,INST
 International Seaways Inc.,INSW
-,INSW-A
+Unknown company,INSW-A
 Insys Therapeutics Inc.,INSY
 World Fuel Services Corporation,INT
 Intel Corporation,INTC
@@ -4151,7 +4151,7 @@ Invesco International BuyBack Achievers ETF,IPKW
 Interstate Power and Light Company Interstate Power & Light Company Perp Preferred 5.10% Series D,IPLDP
 Renaissance IPO,IPO
 Social Capital Hedosophia Holdings Corp. Class A par value $0.0001,IPOA
-,IPOA+
+Unknown company,IPOA+
 Social Capital Hedosophia Holdings Corp. Units each consisting of one Class A Ordinary Share and one-third of one warrant,IPOA=
 Renaissance Capital Greenwich Fund,IPOS
 Ideal Power Inc.,IPWR
@@ -4291,7 +4291,7 @@ JPMorgan U.S. Aggregate Bond,JAGG
 Jaguar Health Inc.,JAGX
 JAKKS Pacific Inc.,JAKK
 Jason Industries Inc.,JASN
-,JASNW
+Unknown company,JASNW
 J. Alexander's Holdings Inc.,JAX
 Jazz Pharmaceuticals plc,JAZZ
 JBG SMITH Properties,JBGS
@@ -4451,7 +4451,7 @@ Janus Henderson Small Cap Growth Alpha ETF,JSML
 Jensyn Acquistion Corp.,JSYN
 Jensyn Acquistion Corp. Rights,JSYNR
 Jensyn Acquistion Corp. Unit,JSYNU
-,JSYNW
+Unknown company,JSYNW
 Jianpu Technology Inc. American depositary shares each two representing five Class A,JT
 Nuveen Tax-Advantaged Total Return Strategy Fund of Beneficial Interest,JTA
 Nuveen Tax-Advantaged Dividend Growth Fund of Beneficial Interest,JTD
@@ -4594,7 +4594,7 @@ iShares Trust MSCI Saudi Arabia,KSA
 DWS Strategic Municipal Income Trust,KSM
 Kohl's Corporation,KSS
 Kansas City Southern,KSU
-,KSU-
+Unknown company,KSU-
 KT Corporation,KT
 Key Tronic Corporation,KTCC
 DWS Municipal Income Trust,KTF
@@ -4602,7 +4602,7 @@ Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock,
 Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS),KTN
 Kratos Defense & Security Solutions Inc.,KTOS
 Kitov Pharma Ltd.,KTOV
-,KTOVW
+Unknown company,KTOVW
 Corts 7.625 Pfd,KTP
 Kura Oncology Inc.,KURA
 KraneShares MSCI All China Health Care Index,KURE
@@ -4693,7 +4693,7 @@ VanEck Vectors NDR CMG Long/Flat Allocation,LFEQ
 Littelfuse Inc.,LFUS
 Lifevantage Corporation,LFVN
 Legacy Acquisition Corp. Class A par value $0.0001 per share,LGC
-,LGC+
+Unknown company,LGC+
 Legacy Acquisition Corp. Units each consisting of one share of Class A Common Stock and one Warrant to purchase one-half of one share of Class A Common Stock,LGC=
 Legacy Reserves Inc.,LGCY
 Lions Gate Entertainment Corporation Class A,LGF.A
@@ -4706,7 +4706,7 @@ Ligand Pharmaceuticals Incorporated,LGND
 First Trust Long Duration Opportunities,LGOV
 Laboratory Corporation of America Holdings,LH
 Leo Holdings Corp. Class A,LHC
-,LHC+
+Unknown company,LHC+
 Leo Holdings Corp. Units each consisting of one Class A ordinary share and one-third of one redeemable warrant,LHC=
 LHC Group,LHCG
 aTyr Pharma Inc.,LIFE
@@ -4744,7 +4744,7 @@ LeMaitre Vascular Inc.,LMAT
 Limbach Holdings Inc.,LMB
 First Trust Low Duration Opportunities ETF,LMBS
 LM Funding America Inc.,LMFA
-,LMFAW
+Unknown company,LMFAW
 Legg Mason Inc. 6.375% Junior Subordinated Notes due 2056,LMHA
 Legg Mason Inc. 5.45% Junior Subordinated Notes due 2056,LMHB
 ETRACS Monthly Pay 2xLeveraged Wells Fargo MLP Ex-Energy ETN,LMLP
@@ -4825,7 +4825,7 @@ Livent Corporation,LTHM
 ProShares Ultra Telecommunications,LTL
 LATAM Airlines Group S.A.,LTM
 Union Acquisition Corp.,LTN
-,LTN+
+Unknown company,LTN+
 Union Acquisition Corp. Units each consisting of one ordinary share and one redeemable warrant,LTN=
 LiveXLive Media,LTN^
 Pimco 15 Year U.S. TIPS Index Exchange-Traded Fund,LTPZ
@@ -4834,8 +4834,8 @@ Liberty TripAdvisor Holdings Inc. Series B Common Stock,LTRPB
 Lantronix Inc.,LTRX
 Ladenburg Thalmann Financial Services Inc,LTS
 Ladenburg Thalmann Financial Services Inc 8.00% Series A Cumulative Redeemable Preferred Stock Liquidation Preference $25.00 per share,LTS-A
-,LTSF
-,LTSK
+Unknown company,LTSF
+Unknown company,LTSK
 Ladenburg Thalmann Financial Services Inc 6.50% Senior Notes due 2027,LTSL
 LegacyTexas Financial Group Inc.,LTXB
 Luby's Inc.,LUB
@@ -5022,7 +5022,7 @@ MeiraGTx Holdings plc,MGTX
 Macquarie Global Infrastructure Total Return Fund Inc.,MGU
 Vanguard Mega Cap Value,MGV
 Magnolia Oil & Gas Corporation Class A,MGY
-,MGY+
+Unknown company,MGY+
 Magyar Bancorp Inc.,MGYR
 Maiden Holdings Ltd. Pref Shs Ser A (Bermuda),MH-A
 Maiden Holdings North America Ltd. 7.125% Non-Cumulative Preference Shares Series C,MH-C
@@ -5152,7 +5152,7 @@ Morningstar Inc.,MORN
 VanEck Vectors Mortgage REIT Income,MORT
 Mosaic Company (The),MOS
 Mosaic Acquisition Corp. Class A,MOSC
-,MOSC+
+Unknown company,MOSC+
 Mosaic Acquisition Corp. Units each consisting of one Class A Common Stock and one-third of one Warrant,MOSC=
 MoSys Inc.,MOSY
 VanEck Vectors Morningstar International Moat,MOTI
@@ -5176,7 +5176,7 @@ Everspin Technologies Inc.,MRAM
 Meridian Corporation,MRBK
 MRC Global Inc.,MRC
 Monroe Capital Corporation,MRCC
-,MRCCL
+Unknown company,MRCCL
 Mercury Systems Inc,MRCY
 ProShares Merger,MRGR
 Marin Software Incorporated,MRIN
@@ -5222,7 +5222,7 @@ LHA Market State U.S. Tactical,MSUS
 Mid-Southern Bancorp Inc.,MSVB
 Arcelor Mittal NY Registry Shares NEW,MT
 M&T Bank Corporation,MTB
-,MTB-
+Unknown company,MTB-
 M&T Bank Corporation Fixed Rate Cumulative Perpetual Preferred Stock Series C,MTB-C
 Medical Transcription Billing Corp.,MTBC
 Medical Transcription Billing Corp. 11% Series A Cumulative Redeemable Perpetual Preferred Stock,MTBCP
@@ -5370,7 +5370,7 @@ The9 Limited,NCTY
 AllianzGI Convertible & Income Fund,NCV
 AllianzGI Convertible & Income Fund 5.625% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share),NCV-A
 AllianzGI Convertible & Income Fund II of Beneficial Interest,NCZ
-,NCZ-A
+Unknown company,NCZ-A
 Nasdaq Inc.,NDAQ
 Noodles & Company,NDLS
 Tortoise Energy Independence Fund Inc.,NDP
@@ -5411,7 +5411,7 @@ New Media Investment Group Inc.,NEWM
 New Relic Inc.,NEWR
 Newtek Business Services Corp.,NEWT
 Newtek Business Services Corp. 6.25% Notes Due 2023,NEWTI
-,NEWTZ
+Unknown company,NEWTZ
 Nexa Resources S.A.,NEXA
 NextDecade Corporation,NEXT
 Northfield Bancorp Inc.,NFBK
@@ -5435,7 +5435,7 @@ National General Holdings Corp,NGHC
 National General Holdings Corp Depositary Shares each representing 1/40th of a share of 7.50% Non-Cumulative Preferred Stock Series C,NGHCN
 National General Holdings Corp Depositary Shares,NGHCO
 National General Holdings Corp 7.50% Non-Cumulative Preferred Stock Series A,NGHCP
-,NGHCZ
+Unknown company,NGHCZ
 NGL ENERGY PARTNERS LP representing Limited Partner Interests,NGL
 NGL ENERGY PARTNERS LP 9.00% Class B Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units representing limited partnership interests,NGL-B
 Targa Resources Partners LP 9.00% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units representing preferred equity interests,NGLS-A
@@ -5489,7 +5489,7 @@ Navios Maritime Holdings Inc. Sponsored ADR Representing 1/100th Perpetual Prefe
 Navios Maritime Holdings Inc. Sponsored ADR Representing 1/100th Perp. Preferred Series H%,NM-H
 Navios Maritime Containers L.P.,NMCI
 New Mountain Finance Corporation,NMFC
-,NMFX
+Unknown company,NMFX
 Nuveen Municipal Income Fund Inc.,NMI
 NMI Holdings Inc,NMIH
 Niagara Mohawk Holdings Inc. Preferred Stock,NMK-B
@@ -5537,7 +5537,7 @@ Nuveen Pennsylvania Quality Municipal Income Fund,NQP
 Newpark Resources Inc.,NR
 National Research Corporation,NRC
 NRC Group Holdings Corp.,NRCG
-,NRCG+
+Unknown company,NRCG+
 NorthStar Realty Europe Corp.,NRE
 NRG Energy Inc.,NRG
 Northrim BanCorp Inc,NRIM
@@ -5571,10 +5571,10 @@ Nuveen Connecticut Quality Municipal Income Fund,NTC
 NetScout Systems Inc.,NTCT
 Intec Pharma Ltd.,NTEC
 NetEase Inc.,NTES
-,NTEST
-,NTEST.A
-,NTEST.B
-,NTEST.C
+Unknown company,NTEST
+Unknown company,NTEST.A
+Unknown company,NTEST.B
+Unknown company,NTEST.C
 Tortoise Midstream Energy Fund Inc.,NTG
 Neon Therapeutics Inc.,NTGN
 NETGEAR Inc.,NTGR
@@ -5609,7 +5609,7 @@ Nuveen ESG Mid-Cap Value,NUMV
 Nuveen Ohio Quality Municipal Income Fund,NUO
 Nuveen Short-Term REIT,NURE
 NeuroMetrix Inc.,NURO
-,NUROW
+Unknown company,NUROW
 Nu Skin Enterprises Inc.,NUS
 Nuveen Enhanced Yield 1-5 Year U.S. Aggregate Bond,NUSA
 Nuveen ESG Small-Cap,NUSC
@@ -5652,7 +5652,7 @@ Nuveen California Select Tax-Free Income Portfolio,NXC
 Nexgen Energy Ltd.,NXE
 Nexeo Solutions Inc.,NXEO
 Nexeo Solutions Inc. Unit,NXEOU
-,NXEOW
+Unknown company,NXEOW
 NextGen Healthcare Inc.,NXGN
 Nuveen New Jersey Qualified Municipal Fund,NXJ
 Nuveen New York Select Tax-Free Income Portfolio,NXN
@@ -5663,7 +5663,7 @@ Nuveen Select Tax Free Income Portfolio III,NXR
 NexPoint Residential Trust Inc.,NXRT
 Nexstar Media Group Inc.,NXST
 NXT-ID Inc.,NXTD
-,NXTDW
+Unknown company,NXTDW
 NxStage Medical Inc.,NXTM
 New York Community Bancorp Inc.,NYCB
 New York Community Bancorp Inc. Depositary shares Series A,NYCB-A
@@ -5678,7 +5678,7 @@ Empire Resorts Inc.,NYNY
 New York Times Company (The),NYT
 Nuveen New York Municipal Value Fund 2 of Beneficial Interest,NYV
 Nuveen Municipal Credit Income Fund,NZF
-,NONE
+Unknown company,NONE
 Realty Income Corporation,O
 Oaktree Capital Group LLC Class A Units Representing Limited Liability Company Interests,OAK
 Oaktree Capital Group LLC 6.625% Series A Preferred units,OAK-A
@@ -5722,7 +5722,7 @@ Orthofix Medical Inc.,OFIX
 Omega Flex Inc.,OFLX
 OFS Capital Corporation,OFS
 OFS Capital Corporation 6.375% Notes due 2025,OFSSL
-,OFSSZ
+Unknown company,OFSSZ
 Empire State Realty OP L.P. Series 60 Operating Partnership Units Representing Limited Partnership Interests,OGCP
 OGE Energy Corp,OGE
 Oragenics Inc.,OGEN
@@ -5757,7 +5757,7 @@ DB Crude Oil Long Exchange Traded Notes due June 1 2038,OLO
 One Liberty Properties Inc.,OLP
 Grupo Aeroportuario del Centro Norte S.A.B. de C.V.,OMAB
 One Madison Corporation Class A,OMAD
-,OMAD+
+Unknown company,OMAD+
 One Madison Corporation Units each consisting of one Class A ordinary share $0.0001 par value and one half of one warrant,OMAD=
 Omnicom Group Inc.,OMC
 Omnicell Inc.,OMCL
@@ -5794,7 +5794,7 @@ Opes Acquisition Corp.,OPES
 Opes Acquisition Corp. Unit,OPESU
 Opes Acquisition Corp. Warrant,OPESW
 OpGen Inc.,OPGN
-,OPGNW
+Unknown company,OPGNW
 OptimumBank Holdings Inc.,OPHC
 Ophthotech Corporation,OPHT
 Office Properties Income Trust,OPI
@@ -5915,7 +5915,7 @@ Prosperity Bancshares Inc.,PB
 Pembina Pipeline Corp. (Canada),PBA
 Prospect Capital Corporation 6.25% Notes due 2024,PBB
 PB Bancorp Inc.,PBBI
-,PBC
+Unknown company,PBC
 People's United Financial Inc.,PBCT
 People's United Financial Inc. Perpetual Preferred Series A Fixed-to-floating Rate,PBCTP
 Invesco Global Clean Energy,PBD
@@ -6345,7 +6345,7 @@ Pimco Corporate & Income Opportunity Fund,PTY
 People's Utah Bancorp,PUB
 Invesco DWA Utilities Momentum ETF,PUI
 Prudential Public Limited Company,PUK
-,PUK-
+Unknown company,PUK-
 Prudential Public Limited Company 6.50% Perpetual Subordinated Capital Securities Exchangeable at the Issuer's Option Into Non-Cumulative Dollar Denominated Pre,PUK-A
 Pulmatrix Inc.,PULM
 PGIM Ultra Short Bond,PULS
@@ -6470,7 +6470,7 @@ Quotient Technology Inc.,QUOT
 uniQure N.V.,QURE
 SPDR MSCI USA StrategicFactors,QUS
 Alpha Architect U.S. Quantitative Value,QVAL
-,QVCD
+Unknown company,QVCD
 Arrow QVM Equity Factor,QVM
 SPDR MSCI World StrategicFactors,QWLD
 QuantX Risk Managed Growth ETF,QXGG
@@ -6505,7 +6505,7 @@ Nationwide Risk-Based U.S. Equity,RBUS
 Reebonz Holding Limited,RBZ
 Reebonz Holding Limited Warrant,RBZAW
 Ready Capital Corproation,RC
-,RCA
+Unknown company,RCA
 Invesco S&P 500 Equal Weight Consumer Discretionary,RCD
 RENN Fund Inc,RCG
 Rogers Communication Inc.,RCI
@@ -6516,7 +6516,7 @@ Royal Caribbean Cruises Ltd.,RCL
 R1 RCM Inc.,RCM
 RCM Technologies Inc.,RCMT
 Recon Technology Ltd.,RCON
-,RCP
+Unknown company,RCP
 PIMCO Strategic Income Fund Inc.,RCS
 Arcus Biosciences Inc.,RCUS
 Rowan Companies plc Class A,RDC
@@ -6620,8 +6620,8 @@ Rigel Pharmaceuticals Inc.,RIGL
 RiverFront Strategic Income Fund,RIGS
 B. Riley Financial Inc.,RILY
 B. Riley Financial Inc. 7.25% Senior Notes due 2027,RILYG
-,RILYH
-,RILYI
+Unknown company,RILYH
+Unknown company,RILYI
 B. Riley Financial Inc. 7.50% Senior Notes,RILYL
 B. Riley Financial Inc. 7.50% Senior Notes Due 2027,RILYZ
 ProShares Inflation Expectations,RINF
@@ -6655,7 +6655,7 @@ ResMed Inc.,RMD
 Ra Medical Systems Inc.,RMED
 RiverNorth Opportunistic Municipal Income Fund Inc.,RMI
 Rimini Street Inc.,RMNI
-,RMPL-
+Unknown company,RMPL-
 The RMR Group Inc.,RMR
 Royce Micro-Cap Trust Inc.,RMT
 Rockwell Medical Inc.,RMTI
@@ -6698,7 +6698,7 @@ Roper Technologies Inc.,ROP
 Hartford Multifactor REIT,RORE
 Rosehill Resources Inc.,ROSE
 Rosehill Resources Inc. Unit,ROSEU
-,ROSEW
+Unknown company,ROSEW
 Ross Stores Inc.,ROST
 Hartford Multifactor U.S. Equity,ROUS
 Castle Brands Inc.,ROX
@@ -6756,7 +6756,7 @@ Direxion MSCI Defensives Over Cyclicals,RWDC
 Direxion MSCI Developed Over Emerging Markets,RWDE
 Direxion MSCI Emerging Over Developed Markets,RWED
 Regalwood Global Energy Ltd. Class A,RWGE
-,RWGE+
+Unknown company,RWGE+
 Regalwood Global Energy Ltd. Units,RWGE=
 Direxion Russell 1000 Growth Over Value,RWGV
 Direxion FTSE Russell International Over US,RWIU
@@ -6801,11 +6801,11 @@ Invesco S&P Smallcap 600 Pure Value,RZV
 Sprint Corporation,S
 Seabridge Gold Inc. (Canada),SA
 ProShares Ultra SmallCap600,SAA
-,SAB
+Unknown company,SAB
 Sabre Corporation,SABR
 Sachem Capital Corp.,SACH
 SAExploration Holdings Inc.,SAEX
-,SAF
+Unknown company,SAF
 Safety Income & Growth Inc.,SAFE
 Sanderson Farms Inc.,SAFM
 Safety Insurance Group Inc.,SAFT
@@ -6839,7 +6839,7 @@ Safe Bulkers Inc Cumulative Redeemable Perpetual Preferred Series C (Marshall Is
 Safe Bulkers Inc Perpetual Preferred Series D (Marshall Islands),SB-D
 SBA Communications Corporation,SBAC
 ProShares Short SmallCap600,SBB
-,SBBC
+Unknown company,SBBC
 Strongbridge Biopharma plc,SBBP
 SB One Bancorp,SBBX
 Seacoast Banking Corporation of Florida,SBCF
@@ -7102,13 +7102,13 @@ The Obesity ETF,SLIM
 SLM Corporation,SLM
 SLM Corporation Floating Rate Non-Cumulative Preferred Stock Series B,SLMBP
 Soleno Therapeutics Inc.,SLNO
-,SLNOW
+Unknown company,SLNOW
 Simulations Plus Inc.,SLP
 iShares 0-5 Year Investment Grade Corporate Bond E,SLQD
 Solar Capital Ltd.,SLRC
 SELLAS Life Sciences Group Inc.,SLS
 Salt High truBeta US Market,SLT
-,SLTB
+Unknown company,SLTB
 iShares Silver Trust,SLV
 Credit Suisse Silver Shares Covered Call Exchange Traded Notes,SLVO
 iShares MSCI Global Silver Miners Fund,SLVP
@@ -7177,7 +7177,7 @@ Sanchez Midstream Partners LP,SNMP
 Smith & Nephew SNATS Inc.,SNN
 Sienna Biopharmaceuticals Inc.,SNNA
 Sonoma Pharmaceuticals Inc.,SNOA
-,SNOAW
+Unknown company,SNOAW
 China Petroleum & Chemical Corporation,SNP
 Synopsys Inc.,SNPS
 New Senior Investment Group Inc.,SNR
@@ -7197,7 +7197,7 @@ Sotherly Hotels Inc. 7.875% Series C Cumulative Redeemable Perpetual Preferred S
 Sohu.com Limited,SOHU
 Solaris Oilfield Infrastructure Inc. Class A,SOI
 Global X Fertilizers/Potash,SOIL
-,SOJA
+Unknown company,SOJA
 Southern Company (The) Series 2016A 5.25% Junior Subordinated Notes due October 1 2076,SOJB
 Southern Company (The) Series 2017B 5.25% Junior Subordinated Notes due December 1 2077,SOJC
 Renesola Ltd. ADR,SOL
@@ -7491,8 +7491,8 @@ Talos Energy Inc. Warrants,TALO+
 Invesco Solar,TAN
 Tantech Holdings Ltd.,TANH
 TravelCenters of America LLC 8.25% Senior Notes due 2028,TANNI
-,TANNL
-,TANNZ
+Unknown company,TANNL
+Unknown company,TANNZ
 Invesco China Real Estate,TAO
 Taoping Inc.,TAOP
 Molson Coors Brewing Company Class B,TAP
@@ -7507,7 +7507,7 @@ American Century Diversified Municipal Bond,TAXF
 Taylor Devices Inc.,TAYD
 AT&T Inc. 5.350% Global Notes due 2066,TBB
 The Bancorp Inc.,TBBK
-,TBC
+Unknown company,TBC
 ProShares Short 20+ Year Treasury,TBF
 TrueBlue Inc.,TBI
 Translate Bio Inc.,TBIO
@@ -7543,7 +7543,7 @@ TRACON Pharmaceuticals Inc.,TCON
 TC PipeLines LP representing Limited Partner Interests,TCP
 BlackRock TCP Capital Corp.,TCPC
 THL Credit Inc.,TCRD
-,TCRW
+Unknown company,TCRW
 THL Credit Inc. 6.75% Notes due 2022,TCRZ
 Container Store (The),TCS
 Premise Capital Frontier Advantage Diversified Tactical,TCTL
@@ -7552,7 +7552,7 @@ Toronto Dominion Bank (The),TD
 Telephone and Data Systems Inc. 5.875% Senior Notes due 2061,TDA
 Trident Acquisitions Corp.,TDAC
 Trident Acquisitions Corp. Units,TDACU
-,TDACW
+Unknown company,TDACW
 Teradata Corporation,TDC
 Telephone and Data Systems Inc. 6.875% Senior Notes due 2059,TDE
 Templeton Dragon Fund Inc.,TDF
@@ -7566,8 +7566,8 @@ FlexShares iBoxx 5 Year Target Duration TIPS Index Fund,TDTF
 FlexShares iBoxx 3 Year Target Duration TIPS Index Fund,TDTT
 Tidewater Inc.,TDW
 Tidewater Inc. Warrant,TDW+
-,TDW+A
-,TDW+B
+Unknown company,TDW+A
+Unknown company,TDW+B
 Teledyne Technologies Incorporated,TDY
 Atlassian Corporation Plc,TEAM
 Tech Data Corporation,TECD
@@ -7685,7 +7685,7 @@ Direxion Daily 20-Yr Treasury Bull 3x Shrs,TMF
 Motley Fool 100 Index ETF,TMFC
 Taylor Morrison Home Corporation Class A,TMHC
 Torchmark Corporation,TMK
-,TMK-C
+Unknown company,TMK-C
 Thermo Fisher Scientific Inc,TMO
 Tompkins Financial Corporation,TMP
 Trilogy Metals Inc.,TMQ
@@ -7729,7 +7729,7 @@ Turning Point Brands Inc.,TPB
 Tutor Perini Corporation,TPC
 Tribune Publishing Company,TPCO
 TPG Pace Holdings Corp. Class A,TPGH
-,TPGH+
+Unknown company,TPGH+
 TPG Pace Holdings Corp. Units each consisting of one Class A ordinary share $.0001 par value and one-third of one warrant,TPGH=
 TRI Pointe Group Inc.,TPH
 Trinity Place Holdings Inc.,TPHS
@@ -7849,7 +7849,7 @@ ProShares UltraShort Russell2000,TWM
 Trans World Entertainment Corp.,TWMC
 Taiwan Fund Inc. (The),TWN
 Hostess Brands Inc.,TWNK
-,TWNKW
+Unknown company,TWNKW
 Two Harbors Investment Corp,TWO
 Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share),TWO-A
 Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,TWO-B
@@ -7865,7 +7865,7 @@ Texas Instruments Incorporated,TXN
 Texas Roadhouse Inc.,TXRH
 Textron Inc.,TXT
 Tri Continental Corporation,TY
-,TY-
+Unknown company,TY-
 Direxion Daily 20 Year Treasury Bear 1X Shares,TYBS
 Direxion Daily 10-Yr Treasury Bull 3x Shrs,TYD
 Tortoise Energy Infrastructure Corporation,TYG
@@ -8054,7 +8054,7 @@ USAA Core Short-Term Bond,USTB
 E-TRACS USB Bloomberg Commodity Index Exchange Traded Notes UBS Bloomberg CMCI Silver ETN,USV
 USAA MSCI USA Small Cap Value Momentum Blend Index,USVM
 U.S. Well Services Inc.,USWS
-,USWSW
+Unknown company,USWSW
 U.S. Xpress Enterprises Inc. Class A,USX
 ETFIS Series Trust I Reaves Utilities,UTES
 Cohen & Steers Infrastructure Fund Inc,UTF
@@ -8070,7 +8070,7 @@ United Technologies Corporation,UTX
 Invesco DB USD Index Bullish Fund,UUP
 Universal Security Instruments Inc.,UUU
 Energy Fuels Inc (Canada),UUUU
-,UUUU+
+Unknown company,UUUU+
 UNIVERSAL INSURANCE HOLDINGS INC,UVE
 Univest Financial Corporation,UVSP
 Universal Corporation,UVV
@@ -8083,7 +8083,7 @@ Uxin Limited,UXIN
 ProShares Ultra Financials,UYG
 ProShares Ultra Basic Materials,UYM
 United States Cellular Corporation 6.95% Senior Notes due 2060,UZA
-,UZB
+Unknown company,UZB
 United States Cellular Corporation 7.25% Senior Notes due 2064,UZC
 Visa Inc.,V
 Marriot Vacations Worldwide Corporation,VAC
@@ -8188,7 +8188,7 @@ voxeljet AG American Depositary Shares each representing one-fifth of an/,VJET
 Invesco Advantage Municipal Income Trust II of Beneficial Interest (DE),VKI
 Invesco Municipal Trust,VKQ
 Viking Therapeutics Inc.,VKTX
-,VKTXW
+Unknown company,VKTXW
 Village Super Market Inc. Class A Common Stock,VLGEA
 Valero Energy Corporation,VLO
 Controladora Vuela Compania de Aviacion S.A.B. de C.V. American Depositary Shares each representing ten (10) Ordinary Participation Certificates,VLRS
@@ -8271,7 +8271,7 @@ Versum Materials Inc.,VSM
 VictoryShares US Multi-Factor Minimum Volatility ETF,VSMV
 Vanguard FTSE All-Wld ex-US SmCp Idx,VSS
 Vistra Energy Corp.,VST
-,VST+A
+Unknown company,VST+A
 Verastem Inc.,VSTM
 Vista Outdoor Inc.,VSTO
 Vanguard Total World Stock Index,VT
@@ -8401,7 +8401,7 @@ Western Gas Equity Partners LP Representing Limited Partner Interests,WGP
 Wyndham Hotels & Resorts Inc.,WH
 Cactus Inc. Class A,WHD
 WhiteHorse Finance Inc.,WHF
-,WHFBZ
+Unknown company,WHFBZ
 Westwood Holdings Group Inc,WHG
 Wilhelmina International Inc.,WHLM
 Wheeler Real Estate Investment Trust Inc.,WHLR
@@ -8462,7 +8462,7 @@ iShares International Developed Property,WPS
 WPX Energy Inc.,WPX
 W.R. Berkley Corporation,WRB
 W.R. Berkley Corporation 5.625% Subordinated Debentures due 2053,WRB-B
-,WRB-C
+Unknown company,WRB-C
 W.R. Berkley Corporation 5.75% Subordinated Debentures due 2056,WRB-D
 W.R. Berkley Corporation 5.70% Subordinated Debentures due 2058,WRB-E
 WildHorse Resource Development Corporation,WRD
@@ -8648,7 +8648,7 @@ YieldShares High Income,YYY
 Zillow Group Inc.,Z
 ZAGG Inc,ZAGG
 Zayo Group Holdings Inc.,ZAYO
-,ZAZZT
+Unknown company,ZAZZT
 Zions Bancorporation N.A. Depositary Shares Series A,ZB-A
 Zions Bancorporation N.A. Dep Shs Repstg 1/40th Perp Pfd Ser G,ZB-G
 Zions Bancorporation N.A. Dep Shs Repstg 1/40th Int Sh Ser H Perp Pfd Stk,ZB-H
@@ -8656,10 +8656,10 @@ Zimmer Biomet Holdings Inc.,ZBH
 ProShares UltraPro Short NASDAQ Biotechnology,ZBIO
 Zions Bancorporation N.A. 6.95% Fixed-to-Floating Rate Subordinated Notes due September 15 2028,ZBK
 Zebra Technologies Corporation,ZBRA
-,ZBZX
-,ZBZZT
+Unknown company,ZBZX
+Unknown company,ZBZZT
 SPDR Solactive Canada,ZCAN
-,ZCZZT
+Unknown company,ZCZZT
 SPDR Solactive Germany,ZDEU
 Zedge Inc. Class B,ZDGE
 Zealand Pharma A/S,ZEAL
@@ -8679,27 +8679,27 @@ ZIOPHARM Oncology Inc,ZIOP
 VelocityShares Daily Inverse VIX Medium Term ETN,ZIV
 Zix Corporation,ZIXI
 SPDR Solactive Japan,ZJPN
-,ZJZZT
+Unknown company,ZJZZT
 ZK International Group Co. Ltd,ZKIN
 Zai Lab Limited,ZLAB
 Direxion Zacks MLP High Income Index Shares,ZMLP
 Zion Oil & Gas Inc,ZN
 Zynga Inc.,ZNGA
 China Southern Airlines Company Limited,ZNH
-,ZNWAA
+Unknown company,ZNWAA
 Zomedica Pharmaceuticals Corp.,ZOM
 PIMCO 25 Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund,ZROZ
 Zscaler Inc.,ZS
 Zosano Pharma Corporation,ZSAN
 ProShares UltraShort Silver,ZSL
-,ZTEST
+Unknown company,ZTEST
 ZTO Express (Cayman) Inc. American Depositary Shares each representing one Class A.,ZTO
 Virtus Global Dividend & Income Fund Inc.,ZTR
 Zoetis Inc. Class A,ZTS
 Zumiez Inc.,ZUMZ
 Zuora Inc. Class A,ZUO
-,ZVV
-,ZVVV
+Unknown company,ZVV
+Unknown company,ZVVV
 NASDAQ TEST STOCK,ZVZZT
 NASDAQ TEST STOCK,ZWZZT
 ZXIET Test Incorporated,ZXIET
