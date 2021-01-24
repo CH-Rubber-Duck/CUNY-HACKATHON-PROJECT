@@ -1,6 +1,6 @@
 import iex
 import json
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
 
 iex.start()
 app = FastAPI()
@@ -16,5 +16,8 @@ async def get_company(company_name: str):
 
 @app.get("/stocks/{ticker}")
 async def get_company(ticker: str):
-    tickers = iex.find_ticker(ticker.replace('-', ' ')).values
-    return tickers
+    if not iex.is_valid_ticker(ticker):
+        raise HTTPException(status_code=404, detail="Item not found")
+    
+    data = await iex.get_stock_information(ticker)
+    return data
