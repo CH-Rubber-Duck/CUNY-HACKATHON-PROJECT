@@ -29,7 +29,7 @@ def load_tickers():
     TICKERS = pd.read_csv("./data/tickers.csv")
 
 
-def start():
+async def start():
     global CONFIG, TOKEN, VERSION, URL
     with open('./config.yaml', 'r') as f:
         try:
@@ -46,6 +46,9 @@ def start():
 
             # Load the company-ticker dataset
             load_tickers()
+
+            # Create client session
+            await create_session()
 
         except Exception as e:
             print("Error reading configuration!!!", e)
@@ -75,15 +78,14 @@ def find_ticker(kwd: str, limit: int = 10) -> pd.Series:
 
 async def fetch_data(url: str, **kwargs) -> dict:
     try:
-        async with aiohttp.ClientSession() as session:
-            r = await session.request(
-                method="get",
-                url=url,
-                **kwargs
-            )
-            r.raise_for_status()
-            data = await r.json()
-            return data
+        r = await SESSION.request(
+            method="get",
+            url=url,
+            **kwargs
+        )
+        r.raise_for_status()
+        data = await r.json()
+        return data
     except Exception as e:
         print("Could not fetch IEX data", e)
         return None
